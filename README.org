@@ -4,6 +4,6 @@ A simple library mapping ISO language codes to language names.
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/Shinmera/language-codes.git |
-| commit  | 358c1de                                            |
+| commit  | acf4468                                            |
 | systems | language-codes                                     |
 |---------+----------------------------------------------------|

@@ -3,7 +3,7 @@
 A simple library mapping ISO language codes to language names.
 
 |---------+----------------------------------------------------|
-| source  | git:https://github.com/Shinmera/language-codes.git |
-| commit  | ccf9366                                            |
+| source  | git:https://codeberg.org/shinmera/language-codes.git |
+| commit  | 0000000                                            |
 | systems | language-codes                                     |
 |---------+----------------------------------------------------|

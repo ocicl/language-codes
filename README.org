@@ -4,6 +4,6 @@ A simple library mapping ISO language codes to language names.
 
 |---------+----------------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/language-codes.git |
-| commit  | 0000000                                            |
+| commit  | 1e16acc                                            |
 | systems | language-codes                                     |
 |---------+----------------------------------------------------|
